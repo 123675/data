@@ -1,5 +1,5 @@
 # Auroral Image Classification with Very Limited Labeled Data Using Few-Shot Learning
-This repository contains the dataset for the paper:  
+This repository contains the auroral dataset for the paper:  
 
 **Auroral Image Classification with Very Limited Labeled Data Using Few-Shot Learning**  
 
